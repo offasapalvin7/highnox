@@ -3,11 +3,11 @@ This script will crawl the provided domain, extract all of the URLs, check the H
 
 To use the script, you will need to make it executable using the following command:
 
-chmod +x /path/to/script.sh
+chmod +x ./crawl_and_scan_domain.sh example.com
 
 Then, you can run the script by providing the domain as an argument:
 
-./script.sh example.com
+./crawl_and_scan_domain.sh example.com example.com
 
 
 
